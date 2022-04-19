@@ -1,0 +1,19 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "My personal implementation of game of life",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/krukaleksander/game-of-life.git"
+  },
+  "author": "Aleksander Kruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krukaleksander/game-of-life/issues"
+  },
+  "homepage": "https://github.com/krukaleksander/game-of-life#readme"
+}
